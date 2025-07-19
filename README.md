@@ -1,3 +1,4 @@
+Author - Aryan Barfa 
 - Clone the repo
 
 ```jsx
